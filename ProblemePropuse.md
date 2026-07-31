@@ -6,6 +6,6 @@
 - [pinball](https://kilonova.ro/problems/4260) (ONI 2026 clasa a 6-a)
 
    Teoria numerelor, Ciurul lui Eratostene
-- [hanoi](https://cdn.sepi.ro/lotinfo2026/lotRestrans/ziua2/juniori/enunt/hanoi.pdf) (Lot 2026 Baraj 4 Juniori)
+- [hanoi](https://kilonova.ro/problems/4460/) (Lot 2026 Baraj 4 Juniori)
 
   Combinatorica, Principiul includerii si excluderii, Programare dinamica
